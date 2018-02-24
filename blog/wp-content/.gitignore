@@ -1,0 +1,17 @@
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+# wordpress files to ignore
+wp-config.php
+
+# ignore the uploads folder to decrease git size
+uploads
+uploads/*
+uploads/*
+uploads/*/*
+uploads/*/*/*
+uploads/*/*/*/*

@@ -1,0 +1,6 @@
+.menu-item .themepixels-megamenu-field {
+	display: none;
+}
+.menu-item.menu-item-depth-0 .themepixels-megamenu-field {
+	display: block;
+}
