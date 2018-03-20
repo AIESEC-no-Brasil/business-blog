@@ -1,1 +1,0 @@
-[13-Feb-2016 16:09:55] PHP Fatal error:  Call to undefined function  current_theme_supports() in /home/mende451/public_html/nova_aiesec/aiesec_business/wp-content/themes/enfold/framework/php/auto-updates/auto-updates.php on line 6
