@@ -2,6 +2,7 @@ node_modules/
 dist/
 .vscode/
 blog/wp-config.php
+blog/wp-content/debug.log
 *.swp
 *.swo
 *.swn
